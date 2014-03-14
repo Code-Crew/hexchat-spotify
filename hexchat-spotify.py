@@ -25,10 +25,7 @@ def spotiCheck():
     elif connected == False:
         spotify = dbus.SessionBus().get_session().get_object('com.spotify.qt','/')
         connected = True
-        return True
-    else:
-        connected = True
-        return True
+    return True
 
 def getMeta():
     # No need to check if loaded here, will only get here if passed already
