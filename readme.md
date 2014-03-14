@@ -15,7 +15,7 @@ cd ~/.xchat2/
 Now lets clone it!
 
 ```
-git clone https://zelus.code-crew.net/codecrew/hexchat-spotify.git
+git clone https://zelus.code-crew.net/codecrew/hexchat-spotify.git ./
 ```
 
 Be sure to restart the IRC Client!
@@ -27,7 +27,7 @@ Be sure to restart the IRC Client!
 
  ```/play``` Start playing from your tunes
 ```/pause``` Pause the noise
-```/np``` 
+```/np``` Broadcasts the current song's title, artist, and url to channel
 ```/prev``` Back one song
 ```/skip``` Skip this song
 
