@@ -15,7 +15,7 @@ cd ~/.xchat2/
 Now lets clone it!
 
 ```
-git clone https://zelus.code-crew.net/codecrew/hexchat-spotify.git ./
+git clone https://github.com:Code-Crew/hexchat-spotify.git ./
 ```
 
 Be sure to restart the IRC Client!
