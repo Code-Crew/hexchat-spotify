@@ -25,9 +25,9 @@ Be sure to restart the IRC Client!
 
 ### Commands
 
- ```/play``` Start playing from your tunes
-```/pause``` Pause the noise
-```/np``` Broadcasts the current song's title, artist, and url to channel
-```/prev``` Back one song
-```/skip``` Skip this song
+* ```/play``` Start playing from your tunes
+* ```/pause``` Pause the noise
+* ```/np``` Broadcasts the current song's title, artist, and url to channel
+* ```/prev``` Back one song
+* ```/skip``` Skip this song
 
